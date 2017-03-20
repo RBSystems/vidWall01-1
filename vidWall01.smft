@@ -1,0 +1,6 @@
+<Device Model="PRO2">
+   <Network Type="Ethernet" Id="08">
+      <Device Model="XPanel 2.0 Smart Graphics" DeviceId="03"/>
+   </Network>
+   <Network Type="Cresnet" Id="09"/>
+</Device>
